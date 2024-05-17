@@ -3,9 +3,9 @@
 Web Developer - Frontend Developer
                                                
 - 🌱 I’m currently learning Web devlopment
-- 👯 I’m looking for a Frontend devloper Job
-- 🤔 dreaming High
-- 💬 Focus on Improving, Not Proving
+- 🔛 I’m looking for a Frontend devloper Job
+- 💬 dreaming High
+- 🎯 Focus on Improving, Not Proving
 - 📫 How to reach me : 
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/saravana-jothi-m-496a27251)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/saro_sj._/?hl=en)
