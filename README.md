@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Saravana Jothi
 
-web developer - Frontend developer
+Web Developer - Frontend Developer
                                                
 - 🌱 I’m currently learning Web devlopment
 - 👯 I’m looking for a Frontend devloper Job
